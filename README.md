@@ -1,1 +1,3 @@
 # EV-Market-Segmentation
+Market segmentation is indeed crucial for advancing the adoption of electric vehicles (EVs) in emerging markets. As described in the study, the aim was to identify distinct buyer segments based on psychographic, behavioral, and socio-economic characteristics using the 'perceived benefits-attitude-intention' framework. 
+market segmentation using psychographic, behavioral, and socio-economic factors is essential for effectively promoting EV adoption in emerging markets. The identified segments offer valuable insights for shaping policies, strategies, and marketing efforts to accelerate the transition towards electric mobility.
